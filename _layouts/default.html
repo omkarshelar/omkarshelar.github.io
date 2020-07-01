@@ -7,17 +7,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/assets/font-awesome.min.css">
+    <link rel="stylesheet" href="/assets/custom.css">
+    <link rel="stylesheet" href="/assets/asciinema-player.css">
   </head>
   <body>
     <section class="page-header">
       <h1 class="project-name">{{ page.title | site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | site.description | default: site.github.project_tagline }}</h2>
-        <a href="{{ page.github_url}}" class="btn" target="_blank">GitHub</a>
-        {% if page.twitter_url %}
-          <a href="{{ page.twitter_url }}" class="btn" target="_blank">Twitter</a>
+        {% if page.github_url %}
+          <a href="{{ page.github_url}}" class="btn" target="_blank">
+            <i class="fa fa-github" aria-hidden="true"></i>
+            GitHub
+          </a>
         {% endif %}
         {% if page.linkedin_url %}
-          <a href="{{ page.linkedin_url }}" class="btn" target="_blank">Linkedin</a>
+          <a href="{{ page.linkedin_url }}" class="btn" target="_blank">
+            <i class="fa fa-linkedin" aria-hidden="true"></i>
+            LinkedIn
+          </a>
+        {% endif %}
+        {% if page.twitter_url %}
+          <a href="{{ page.twitter_url }}" class="btn" target="_blank">
+            <i class="fa fa-twitter" aria-hidden="true"></i>
+            Twitter
+          </a>
         {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
