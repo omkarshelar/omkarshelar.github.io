@@ -5,7 +5,7 @@ description: Developer | Creator | Engineer
 github_url: https://github.com/omkarshelar
 twitter_url: https://twitter.com/omkarshelar24
 linkedin_url: https://www.linkedin.com/in/omkar-shelar-889783166/
-email: mailto:hi@omkarshelar.dev
+email: mailto:omkarshelar24@gmail.com
 ---
 ## :page_facing_up: [My Resume](/assets/omkar-shelar-resume.pdf)
 
