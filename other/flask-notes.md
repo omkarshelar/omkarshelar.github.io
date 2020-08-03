@@ -1,5 +1,5 @@
 ---
-title: "Flask Basics"
+title: "Flask Notes"
 date: 2019-04-02T10:59:04+05:30
 draft: false
 ---
