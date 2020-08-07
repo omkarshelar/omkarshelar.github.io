@@ -183,4 +183,3 @@ print(request.get_json())
 It will be available as a python dict object.
 **Note:** Make sure the header Content-Type is set to application/json for this to work.
 
-* * *

@@ -1,6 +1,7 @@
 ---
 title: "Slack Broadcast"
 description: "Broadcast messages to multiple Slack channels using webhooks."
+back: "/"
 ---
 
 :link: Web Link : <a href="https://slack.omkarshelar.dev" target="_blank">https://slack.omkarshelar.dev</a>
@@ -58,6 +59,3 @@ The database used is Amazon DynamoDB. The backend code runs in AWS Lambda. The c
 * Using Angular HTTP interceptors.
 * Deploying code to AWS Lambda using [AWS Chalice](https://github.com/aws/chalice).
 * Designing and Querying DynamoDB tables.
-
----
-

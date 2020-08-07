@@ -1,6 +1,7 @@
 ---
 title: "File Hosting"
 description: "Ephemeral file hosting Web and CLI applications"
+back: "/"
 ---
 :link: Web Link : <a href="https://filehosting.omkarshelar.dev" target="_blank">https://filehosting.omkarshelar.dev</a>
 

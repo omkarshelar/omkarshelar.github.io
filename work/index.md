@@ -1,13 +1,7 @@
 ---
-layout: default
-title: Hi, I'm Omkar
-description: Developer | Creator | Engineer
-github_url: https://github.com/omkarshelar
-twitter_url: https://twitter.com/omkarshelar24
-linkedin_url: https://www.linkedin.com/in/omkar-shelar-889783166/
-email: mailto:omkarshelar24@gmail.com
+title: "My Work"
+back: "/"
 ---
-## :page_facing_up: [My Resume](/assets/omkar-shelar-resume.pdf)
 
 ## :floppy_disk: My Projects
 
