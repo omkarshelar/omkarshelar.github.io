@@ -26,7 +26,7 @@ Backend Code :
 [https://documenter.getpostman.com/view/3370668/SzmcbzVN](https://documenter.getpostman.com/view/3370668/SzmcbzVN)
 
 #### Video Screencast :
-<iframe width="800" height="500" src="https://www.youtube.com/embed/FwJ3m2wj0aM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/FwJ3m2wj0aM" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Architectural Diagram :
 
