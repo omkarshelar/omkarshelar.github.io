@@ -19,6 +19,7 @@ apt install -y ec2-instance-connect
 ### Useful Links :
 - EC2 on-demand pricing - [https://aws.amazon.com/ec2/pricing/on-demand/](https://aws.amazon.com/ec2/pricing/on-demand/)
 
+- AWS CLI install - [https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
 - Python/Boto3 docs - [https://boto3.amazonaws.com/v1/documentation/api/latest/index.html](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 
 - AWS CLI docs - [https://awscli.amazonaws.com/v2/documentation/api/latest/reference/index.html](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/index.html)
