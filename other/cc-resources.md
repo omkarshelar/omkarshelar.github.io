@@ -4,7 +4,7 @@ draft: false
 ---
 
 ### Slides :
--- Add Deck --
+EC2 : [https://omkarshelar.dev/assets/EC2-presentation.pdf](https://omkarshelar.dev/assets/EC2-presentation.pdf)
 
 ### Web application link :
 [https://github.com/omkarshelar/CSUA32181-VIIT](https://github.com/omkarshelar/CSUA32181-VIIT)
@@ -12,8 +12,8 @@ draft: false
 ### EC2 user data :
 ```shell
 #!/bin/bash
-sudo apt -y update
-sudo apt install -y ec2-instance-connect
+apt -y update
+apt install -y ec2-instance-connect
 ```
 
 ### Useful Links :
