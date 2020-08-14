@@ -6,6 +6,8 @@ draft: false
 ### Slides :
 EC2 : [https://omkarshelar.dev/assets/EC2-presentation.pdf](https://omkarshelar.dev/assets/EC2-presentation.pdf)
 
+ELB and S3 Presentation : [https://omkarshelar.dev/assets/ELB-and-S3-Presentation.pdf](https://omkarshelar.dev/assets/ELB-and-S3-Presentation.pdf)
+
 ### Web application link :
 [https://github.com/omkarshelar/CSUA32181-VIIT](https://github.com/omkarshelar/CSUA32181-VIIT)
 
@@ -26,6 +28,9 @@ apt install -y ec2-instance-connect
 
 - Connecting to AWS EC2 instance via PuTTy - [https://youtu.be/bi7ow5NGC-U](https://youtu.be/bi7ow5NGC-U)
 - FileZilla with EC2 - [https://youtu.be/Qxs7CYguo70?t=341](https://youtu.be/Qxs7CYguo70?t=341) OR [https://youtu.be/W6BBrz3jKw8](https://youtu.be/W6BBrz3jKw8)
+
+#### ELB Demo Files(Code and Commands) :
+[https://omkarshelar.dev/assets/alb-code.zip](https://omkarshelar.dev/assets/alb-code.zip)
 
 ### Other download Links :
 PuTTY/PuttyGen download link : [https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
