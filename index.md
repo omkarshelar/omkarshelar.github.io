@@ -8,8 +8,8 @@ linkedin_url: https://www.linkedin.com/in/omkar-shelar-889783166/
 email: mailto:omkarshelar24@gmail.com
 ---
 
-<div sstyle="display: flex;">
-<div>
+<div style="display: flex;">
+<div markdown=1>
 ## :page_facing_up: [My Resume](/assets/omkar-shelar-resume.pdf)
 </div>
 <div>
