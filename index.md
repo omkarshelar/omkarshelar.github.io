@@ -8,18 +8,13 @@ linkedin_url: https://www.linkedin.com/in/omkar-shelar-889783166/
 email: mailto:omkarshelar24@gmail.com
 ---
 
-<div style="display: flex;">
-<div markdown=1>
 ## :page_facing_up: [My Resume](/assets/omkar-shelar-resume.pdf)
-</div>
-<div>
+
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="162ac7f5-fe50-42bb-8065-b90565b284ad" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4a5e58dc-e370-405a-b42a-b16987d28332" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bf9e325c-ceaf-41c0-97ba-4126ffa1671e" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-</div>
-</div>
 
 ## :floppy_disk: My Projects
 
