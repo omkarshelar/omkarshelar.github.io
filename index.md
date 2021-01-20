@@ -9,6 +9,10 @@ email: mailto:omkarshelar24@gmail.com
 ---
 ## :page_facing_up: [My Resume](/assets/omkar-shelar-resume.pdf)
 
+<div data-iframe-width="150" data-iframe-height="270" style="display:inline;margin-right:auto;" data-share-badge-id="162ac7f5-fe50-42bb-8065-b90565b284ad" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" style="display:inline;margin-right:auto;" data-share-badge-id="4a5e58dc-e370-405a-b42a-b16987d28332" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
 ## :floppy_disk: My Projects
 
 * ### Slack Broadcast
