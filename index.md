@@ -65,7 +65,7 @@ email: mailto:omkarshelar24@gmail.com
 
   Easily switch profiles configured via AWS cli.
 
-  <i class="fab fa-npm"></i> [NPM Link](https://www.npmjs.com/package/aws-cli-switch)
+  <i class="fa fa-npm"></i> [NPM Link](https://www.npmjs.com/package/aws-cli-switch)
   
   <i class="fa fa-github" aria-hidden="true"></i>
   [Repository](https://github.com/omkarshelar/aws-cli-profile-switch)
