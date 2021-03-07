@@ -60,3 +60,12 @@ email: mailto:omkarshelar24@gmail.com
 
   <i class="fa fa-github" aria-hidden="true"></i>
   [Web Application Repository](https://github.com/omkarshelar/dns-resolver)
+
+- ### AWS CLI profile switcher
+
+  Easily switch profiles configured via AWS cli.
+
+  <i class="fab fa-npm"></i> [NPM Link](https://www.npmjs.com/package/aws-cli-switch)
+  
+  <i class="fa fa-github" aria-hidden="true"></i>
+  [Repository](https://github.com/omkarshelar/aws-cli-profile-switch)
