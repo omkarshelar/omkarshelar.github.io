@@ -18,6 +18,27 @@ email: mailto:omkarshelar24@gmail.com
 
 ## :floppy_disk: My Projects
 
+- ### AWS CLI profile switcher
+
+  Easily switch profiles configured via AWS cli.
+
+  ![NPM](/assets/npm-logo.svg)
+  [NPM Link](https://www.npmjs.com/package/aws-cli-switch)
+  
+  <i class="fa fa-github" aria-hidden="true"></i>
+  [Repository](https://github.com/omkarshelar/aws-cli-profile-switch)
+
+
+- ### Online Markdown Editor
+  Online markdown editor with real-time preview. Written in [Svelte](https://svelte.dev/).
+
+  :link: Web Link:
+  <a href="https://md-editor.omkarshelar.dev/" target="_blank">https://md-editor.omkarshelar.dev/</a>
+  <i class="fa fa-external-link" aria-hidden="true"></i>
+
+  <i class="fa fa-github" aria-hidden="true"></i>
+  [Repository](https://github.com/omkarshelar/markdown-editor)
+  
 - ### Slack Broadcast
 
   Broadcast messages to multiple Slack channels using webhooks.
@@ -60,13 +81,3 @@ email: mailto:omkarshelar24@gmail.com
 
   <i class="fa fa-github" aria-hidden="true"></i>
   [Web Application Repository](https://github.com/omkarshelar/dns-resolver)
-
-- ### AWS CLI profile switcher
-
-  Easily switch profiles configured via AWS cli.
-
-  ![NPM ](/assets/npm-logo.svg)
-  [NPM Link](https://www.npmjs.com/package/aws-cli-switch)
-  
-  <i class="fa fa-github" aria-hidden="true"></i>
-  [Repository](https://github.com/omkarshelar/aws-cli-profile-switch)
