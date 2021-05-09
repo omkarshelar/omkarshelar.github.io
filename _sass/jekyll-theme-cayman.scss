@@ -148,7 +148,7 @@ a {
 .main-content {
   word-wrap: break-word;
   :first-child {
-    margin-top: 1em;
+    margin-top: 0;
   }
 
   @include large {
