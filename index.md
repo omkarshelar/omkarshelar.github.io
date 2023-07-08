@@ -20,7 +20,7 @@ email: mailto:omkarshelar24@gmail.com
 
 - ### AWS CLI profile switcher
 
-  Easily switch profiles configured via AWS cli.
+  Easily switch profiles configured via AWS CLI.
 
   ![NPM](/assets/npm-logo.svg)
   [NPM Link](https://www.npmjs.com/package/aws-cli-switch)
