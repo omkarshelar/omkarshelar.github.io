@@ -1,0 +1,18 @@
+.main-content .fa-github {
+  color: black;
+}
+.fa-external-link {
+  padding-left: 7px;
+}
+
+.custom-footer {
+  text-align: center;
+}
+
+.custom-footer > .fa-heart {
+  color: red;
+}
+
+.home-btn {
+  color: white;
+}

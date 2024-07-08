@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+
+<head>
+  <meta charset="UTF-8">
+
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Slack Broadcast | Hi, I’m Omkar</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="Slack Broadcast" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Broadcast messages to multiple Slack channels using webhooks." />
+<meta property="og:description" content="Broadcast messages to multiple Slack channels using webhooks." />
+<link rel="canonical" href="https://omkarshelar.dev/work/slack-broadcast.html" />
+<meta property="og:url" content="https://omkarshelar.dev/work/slack-broadcast.html" />
+<meta property="og:site_name" content="Hi, I’m Omkar" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Slack Broadcast" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Broadcast messages to multiple Slack channels using webhooks.","headline":"Slack Broadcast","url":"https://omkarshelar.dev/work/slack-broadcast.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Omkar Shelar's Personal Website">
+  <meta property="og:description" content="Omkar Shelar's Personal Website" />
+  <meta name="twitter:card" content="summary">
+  </meta>
+  <meta name="twitter:creator" value="@omkarshelar24">
+  <meta name="theme-color" content="#157878">
+  <link rel="stylesheet" href="/assets/css/style.css?v=e803bdad1ad355a9940a72c21563ee335e609939">
+  <link rel="stylesheet" href="/assets/font-awesome.min.css">
+  <link rel="stylesheet" href="/assets/custom.css">
+  <link rel="stylesheet" href="/assets/asciinema-player.css">
+</head>
+
+<body>
+  <section class="page-header">
+    
+    <a class="home-btn" href="/"><i class="fa fa-home" aria-hidden="true"></i>Home</a>
+    
+    <h1 class="project-name">Slack Broadcast</h1>
+    <h2 class="project-tagline">Broadcast messages to multiple Slack channels using webhooks.</h2>
+    
+    
+    
+    
+    
+  </section>
+
+  <section class="main-content">
+    <p><img class="emoji" title=":link:" alt=":link:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png" height="20" width="20"> Web Link : <a href="https://slack.omkarshelar.dev" target="_blank">https://slack.omkarshelar.dev</a></p>
+
+<p><strong>The application provides management of the users’ Slack Channels and enables them to broadcast the same message to multiple Slack Channels using slack webhooks.</strong></p>
+
+<p>The application provides users to configure Slack channels and corresponding webhooks. Once configured, the user can then send the same message to multiple slack channels using the web interface.</p>
+
+<hr>
+
+<h4 id="github-links-">GitHub Links :</h4>
+
+<p>Angular Frontend :
+<a href="https://github.com/omkarshelar/slack-broadcast-frontend">https://github.com/omkarshelar/slack-broadcast-frontend</a></p>
+
+<p>Backend Code :
+<a href="https://github.com/omkarshelar/slack-broadcast-API">https://github.com/omkarshelar/slack-broadcast-API</a></p>
+
+<h4 id="api-docs-">API Docs :</h4>
+<p><a href="https://documenter.getpostman.com/view/3370668/SzmcbzVN">https://documenter.getpostman.com/view/3370668/SzmcbzVN</a></p>
+
+<h4 id="video-screencast-">Video Screencast :</h4>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/FwJ3m2wj0aM" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h4 id="architectural-diagram-">Architectural Diagram :</h4>
+
+<p><img src="/assets/slack-broadcast-arch.svg" alt="Slack Broadcast Architecture" title="Slack Broadcast Architecture"></p>
+
+<h4 id="details-">Details :</h4>
+<p><strong>Frontend :</strong></p>
+
+<p>The application frontend is written in Angular.
+<a href="https://materializecss.com/">Materilize CSS</a> is used for styling.
+AWS Amplify for handling user authentication using AWS Cognito.</p>
+
+<p><strong>Backend :</strong></p>
+
+<p>AWS Cognito :
+AWS Cognito handles the users authentication using email/password or Social Logins(Google/Amazon).</p>
+
+<p>APIs :
+To connect with backend APIs, the Angular application uses ID Token sent from Cognito.
+These tokens are checked for validity. If token is valid, the user can then request his/her resources(slack channels).</p>
+
+<p>The database used is Amazon DynamoDB. The backend code runs in AWS Lambda. The code is written using <a href="https://github.com/aws/chalice">AWS Chalice</a> which provides a simple interface using Python decorators.</p>
+
+<h4 id="application-features-">Application Features :</h4>
+<ul>
+  <li>Single Sign On using OAuth.</li>
+  <li>Verification of user email.</li>
+  <li>Completely Serverless deployment.</li>
+  <li>Angular application is a Progressive Web Application.</li>
+</ul>
+
+<h4 id="what-i-learned-from-the-project-">What I learned from the Project :</h4>
+<ul>
+  <li>Implementing OAuth using Authorization Code Grant flow.</li>
+  <li>Using AWS Amplify.</li>
+  <li>Using Angular HTTP interceptors.</li>
+  <li>Deploying code to AWS Lambda using <a href="https://github.com/aws/chalice">AWS Chalice</a>.</li>
+  <li>Designing and Querying DynamoDB tables.</li>
+</ul>
+
+
+    <!-- <footer class="site-footer">
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer> -->
+    <!--Content Ends Here!-->
+    <hr>
+    <footer>
+      <p class="custom-footer">
+        <a href="https://github.com/omkarshelar" target="_blank">GitHub<i class="fa fa-external-link" aria-hidden="true"></i>
+        </a>|
+        <a href="https://www.linkedin.com/in/omkar-shelar-889783166/" target="_blank">LinkedIn<i class="fa fa-external-link" aria-hidden="true"></i>
+        </a>|
+        <a href="https://twitter.com/omkarshelar24" target="_blank">Twitter<i class="fa fa-external-link" aria-hidden="true"></i>
+        </a>
+      </p>
+
+      <p class="custom-footer">Made with <i class="fa fa-heart" aria-hidden="true"></i> by Omkar Shelar</p>
+    </footer>
+  </section>
+
+  
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-114652654-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+  
+</body>
+
+</html>
